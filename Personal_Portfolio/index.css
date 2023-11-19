@@ -1,0 +1,40 @@
+/* Basic Styles */
+.back{
+    background-color: white;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, footer {
+    text-align: center;
+    background-color: #188ebd;
+    padding: 20px 0;
+  }
+  
+  #about, #skills, #projects, #resume, #contact {
+    padding: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  /* Additional Styling - Customize to your preferences */
+  h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
